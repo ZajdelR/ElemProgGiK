@@ -1,0 +1,29 @@
+bat (Tajlandia);THB;0.1241
+dolar amerykański;USD;3.7614
+dolar australijski;AUD;2.7743
+dolar Hongkongu;HKD;0.4853
+dolar kanadyjski;CAD;2.8938
+dolar nowozelandzki;NZD;2.6403
+dolar singapurski;SGD;2.8104
+euro;EUR;4.4843
+frank szwajcarski;CHF;4.1477
+funt szterling;GBP;5.0239
+hrywna (Ukraina);UAH;0.1321
+korona czeska;CZK;0.1714
+korona duńska;DKK;0.6025
+korona norweska;NOK;0.4244
+korona szwedzka;SEK;0.4412
+kuna (Chorwacja);HRK;0.5936
+lej rumuński;RON;0.9201
+lew (Bułgaria);BGN;2.2928
+lira turecka;TRY;0.4830
+nowy izraelski szekel;ILS;1.1332
+peso filipińskie;PHP;0.0781
+peso meksykańskie;MXN;0.1882
+rand (Republika Południowej Afryki);ZAR;0.2480
+real (Brazylia);BRL;0.7048
+ringgit (Malezja);MYR;0.9244
+rubel rosyjski;RUB;0.0496
+yuan renminbi (Chiny);CNY;0.5717
+SDR (MFW);XDR;5.3754
+polski złoty;PLN;1.0000
